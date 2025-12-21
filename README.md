@@ -11,13 +11,13 @@
   <!-- Short About -->
   <p>
     🎯 Fırat Üniversitesi Yazılım Mühendisliği öğrencisiyim.<br>
-    Temiz kod, akıllı sistemler ve kullanıcı odaklı çözüm üretmek beni heyecanlandırır.
+    Temiz kod, akıllı sistemler ve kullanıcı odaklı çözümler üretmek hedeflerimdir.
   </p>
 
   <br>
 
   <!-- Currently Working On -->
-  <h3>🌱 Şu Sırada Ne Yapıyorum?</h3>
+  <h3>🌱 Şu Sıralar Ne Yapıyorum?</h3>
   <p align="center">
     🎓 Yazılım mühendisliği eğitimi ve AI/LLM odaklı pratik projeler geliştiriyorum<br>
     🧪 CI/CD, test stabilitesi ve yazılım kalitesi üzerine araştırmalar yapıyorum<br>
