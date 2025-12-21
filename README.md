@@ -1,76 +1,44 @@
-<!--
-  ✨ Animated Header via SVG badges for a tech look
--->
-<h1 align="center">
-  👋 Hi, I'm Göktan Arda Kınacı — <br>
-  <b>Full-Stack & AI Developer</b>
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&background=0C0C0C00&center=true&vCenter=true&width=700&lines=Building+Smarter+Web+Apps+%26+AI+Solutions;Clean+Code+%7C+Scalable+Backend+Architectures;React+%7C+Node.js+%7C+Python+%7C+AI+Integrations" alt="Typing SVG Animation" />
-</p>
-
----
-
-## 🔎 About Me
-
-Crafting thoughtful, efficient, and modern software that bridges real-world needs with smart solutions is my core passion. I focus on building full-stack applications enhanced with AI capabilities — whether it's scalable backends, intuitive frontends, or integrating intelligent models — while embracing clean code and maintainable design.
-
----
-
-## 🛠️ Technical Expertise
-
-Below is a creative snapshot of the technologies I use — grouped by how I leverage them in projects:
-
 <div align="center">
 
-**AI & Data**
-<img alt="Python" height="28" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
-<img alt="OpenCV" height="28" src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
-<img alt="YOLOv8" height="28" src="https://img.shields.io/badge/-YOLOv8-000000?logo=yolov8&logoColor=white"/>
-<img alt="Pandas" height="28" src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white"/>
+  <h1 style="font-size: 3rem; margin-bottom: 10px;">Göktan Arda Kınacı</h1>
+  <h3 style="font-weight: normal; color: #555;">Full-Stack & AI Developer</h3>
 
-**Backend**
-<img alt="Node.js" height="28" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"/>
-<img alt="FastAPI" height="28" src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white"/>
-<img alt="Spring Boot" height="28" src="https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white"/>
-<img alt="C#" height="28" src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white"/>
-
-**Frontend**
-<img alt="React" height="28" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white"/>
-<img alt="JavaScript" height="28" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-<img alt="HTML5" height="28" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
-
-**Databases & DevOps**
-<img alt="PostgreSQL" height="28" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-<img alt="MongoDB" height="28" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/>
-<img alt="Docker" height="28" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
-<img alt="Git" height="28" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
-<img alt="Linux" height="28" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/goktan-arda-kinaci/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
 </div>
 
----
+<br />
 
-## 📌 Featured Projects
+### 👋 Hakkımda
 
-Here are a few repositories that highlight my work:
-
-### ⭐ Pinned
-| Repo | What it is |
-|------|-------------|
-| **ProjeYonetim** | A complete project management system built with JavaScript |
-| **AI_PLANNER** | An AI-driven planner app using JavaScript |
-| **XRay_Security** | Security-focused Jupyter notebook tools |
-
-*(See all projects on my profile)*
+Merhaba, ben Göktan. Modern web teknolojileri ve yapay zeka çözümleri geliştiren bir Yazılım Mühendisiyim. Temiz kod prensipleriyle, ölçeklenebilir backend mimarileri ve akıllı sistemler (AI/LLM) üzerine çalışıyorum.
 
 ---
 
-## 💬 Let’s Connect
+### 🛠 Yetkinlikler
 
-I enjoy collaborating on open source, experimenting with AI tools, and pushing the boundaries of what apps can do.  
-Check out my repositories and let’s build something cool! 🚀
+**Languages** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-👉 https://github.com/kinaci23
+**Artificial Intelligence** ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
+![Gemini LLM](https://img.shields.io/badge/-Gemini_LLM-8E75B2?style=flat&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
+**Backend & Web** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Database & Cloud** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+**Tools** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
