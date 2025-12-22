@@ -6,16 +6,20 @@
 
   <br>
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+  <br>
+
   <p width="600px" align="center">
-    Modern full-stack mimarileri, yapay zeka destekli akıllı sistemlerle birleştiriyorum. <br>
-    Ölçeklenebilir web teknolojileri ile veri odaklı AI çözümleri arasında köprü kuruyor; <br>
-    stratejik prompt mühendisliği ve yenilikçi yaklaşımlarla projelere değer katıyorum.
+    Modern full-stack mimarileri, yapay zeka destekli akıllı sistemlerle harmanlayarak çözümler üretiyorum. <br>
+    Ölçeklenebilir web teknolojileri ile veri odaklı AI dünyası arasında köprü kuruyor;<br>
+    stratejik prompt mühendisliği ve yenilikçi bakış açımla projelere değer katıyorum.
   </p>
 
   <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,react,postgres,git,docker,postman,selenium,jira,opencv,pandas,numpy,tensorflow,pytorch&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts,html,css,react,postgres,mongodb,supabase,git,docker,postman,selenium,jira,opencv,pandas,numpy,tensorflow,pytorch&perline=7" />
   </a>
 
   <br><br>
