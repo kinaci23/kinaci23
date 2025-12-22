@@ -15,18 +15,10 @@
   <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,react,postgres,git,docker,postman,selenium,jira,opencv,pandas,numpy&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs,react,postgres,git,docker,postman,selenium,jira,opencv,pandas,numpy,tensorflow,pytorch&perline=8" />
   </a>
 
   <br><br>
-
-  <div>
-    <img src="https://img.shields.io/badge/YOLO-Object_Detection-1e1e1e?style=flat-square" alt="YOLO" />
-    <img src="https://img.shields.io/badge/CNN-Deep_Learning-1e1e1e?style=flat-square" alt="CNN" />
-    <img src="https://img.shields.io/badge/Design_Patterns-Architecture-1e1e1e?style=flat-square" alt="Design Patterns" />
-  </div>
-
-  <br>
 
   <div>
     <a href="mailto:ardakinaci23@gmail.com">
