@@ -7,47 +7,33 @@
   <br>
 
   <p width="600px" align="center">
-    Modern full-stack mimarilerin, yapay zeka destekli akıllı sistemlerle entegrasyonuna odaklanan profesyonel bir yaklaşım. <br>
-    Ölçeklenebilir web teknolojileri ile veri odaklı AI çözümleri arasındaki köprüyü kurarak, <br>stratejik prompt mühendisliği ve yenilikçi geliştirme süreçleriyle katma değer yaratma vizyonu.
+    Modern full-stack mimarileri, yapay zeka destekli akıllı sistemlerle birleştiriyorum. <br>
+    Ölçeklenebilir web teknolojileri ile veri odaklı AI çözümleri arasında köprü kuruyor; <br>
+    stratejik prompt mühendisliği ve yenilikçi yaklaşımlarla projelere değer katıyorum.
   </p>
 
   <br>
 
-  <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  </div>
-  <br>
-
-  <div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  </div>
-  <br>
-
-  <div>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/YOLO-Object_Detection-ff69b4?style=for-the-badge" alt="YOLO" />
-    <img src="https://img.shields.io/badge/CNN-Neural_Networks-orange?style=for-the-badge" alt="CNN" />
-    <img src="https://img.shields.io/badge/Design_Patterns-Architecture-blueviolet?style=for-the-badge" alt="Design Patterns" />
-  </div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cs,react,postgres,git,docker,postman,selenium,jira,opencv,pandas,numpy&perline=7" />
+  </a>
 
   <br><br>
 
   <div>
+    <img src="https://img.shields.io/badge/YOLO-Object_Detection-1e1e1e?style=flat-square" alt="YOLO" />
+    <img src="https://img.shields.io/badge/CNN-Deep_Learning-1e1e1e?style=flat-square" alt="CNN" />
+    <img src="https://img.shields.io/badge/Design_Patterns-Architecture-1e1e1e?style=flat-square" alt="Design Patterns" />
+  </div>
+
+  <br>
+
+  <div>
     <a href="mailto:ardakinaci23@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/goktan-arda-kinaci">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </div>
 
