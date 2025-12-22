@@ -19,7 +19,7 @@
   <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts,html,css,react,postgres,mongodb,supabase,git,docker,postman,selenium,jira,opencv,pandas,numpy,tensorflow,pytorch&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts,html,css,react,postgres,mongodb,supabase,git,docker,postman,selenium,ai,opencv,fastapi,nodejs,tensorflow,pytorch&perline=7" />
   </a>
 
   <br><br>
