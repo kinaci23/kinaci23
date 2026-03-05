@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>GÖKTAN ARDA KINACI</h1>
-  <h3>SOFTWARE ENGINEER - FULLSTACK & AI</h3>
+  <h3>SOFTWARE ENGINEER - FULL STACK & AI</h3>
 
   <br />
 
